@@ -5,6 +5,7 @@
  * @license 改変は自由ですが、authorの記載をお願いします
  * @since v1.0.0
  * @version 初期バージョン
+ * https://cdn.jsdelivr.net/gh/technokuro/jsUtils@main/oauth/googleOAuth.js
  */
 
 /**
